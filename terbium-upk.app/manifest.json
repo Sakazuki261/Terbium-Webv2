@@ -1,0 +1,12 @@
+{
+    "name": "Terbium v2 beta",
+    "type": "auto",
+    "package": "snoot.tb",
+    "index": "update.html",
+    "icon": "logo.png",
+    "wininfo": {
+        "title": "Terbium Installer",
+        "width": "700px",
+        "height": "500px"
+    }
+}
